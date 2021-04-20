@@ -6,7 +6,7 @@
 
 |题目|视频链接|难度|标签|知识点|C++代码|Java代码|Python代码|
 |---|---|---|---|---|---|---|---|
-|[只出现一次的数字](https://leetcode-cn.com/leetbook/read/top-interview-questions/xm0u83/)||<font color="green">简单</font>||||||
+|[只出现一次的数字](https://leetcode-cn.com/leetbook/read/top-interview-questions/xm0u83/)||<font color="green">简单</font>|||[single_number.cpp](https://github.com/lowicz-yao/leetcode-practise/blob/main/code/C%2B%2B%E4%BB%A3%E7%A0%81/single_number.cpp)|||
 
 ## 第二阶段 进阶阶段
 当通过入门阶段练习之后，接下来就是你的进阶之路了，在这个阶段你会涉及到各种经典的算法，如基于数组结构的双指针、滑动窗口、动态规划等；基于栈结构的单调栈；基于队列结构的优先队列、双向队列等；基于树结构的遍历、线段树、大/小顶堆等；基于图结构的广度/深度优先算法、Dijkstra算法等，这一阶段的题型难度不是很大，基本花一定时间仔细推敲就能明白，这一阶段可以从八大数据结构进行学习，分别是数组、栈、队列、链表、树、堆、图、字典(散列表)。通过三个月左右的时间学习基本就能掌握。
