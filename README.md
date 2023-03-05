@@ -37,4 +37,5 @@
 ||[外星文字典](https://leetcode.cn/problems/Jf1JuT/)|
 ||[相似的字符串](https://leetcode.cn/problems/H6lPxb/)|
 ## 附录-剑指offer
+剑指offer题解可以参考https://github.com/nlpjoe/Coding4Interviews/tree/master/%E5%89%91%E6%8C%87offer 码主的代码
 
