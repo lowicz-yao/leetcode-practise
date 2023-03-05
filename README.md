@@ -18,8 +18,8 @@
 算法的最后一个阶段也是最难的一个阶段，这个阶段不仅考察你对语言熟练程度和算法的掌握程度，更注重考察你的解决问题的综合能力，这些综合能力包括较强的问题分析转化能力和较强能力逻辑推理能力等，这个阶段最有效的提高方法就是实战；在leetcode上实战的方法可以参加各种企业发起的周赛，和春秋季力扣杯个人赛和团队赛，下面是各企业发起周赛的困难题和力扣杯中的中等难题：
 |来源|题目|视频链接|难度|标签|知识点|C++代码|Java代码|Python代码|
 |---|---|---|---|---|---|---|---|---|
-||[正则表达式匹配](https://leetcode.cn/problems/zheng-ze-biao-da-shi-pi-pei-lcof/)|
-||[序列化二叉树](https://leetcode.cn/problems/xu-lie-hua-er-cha-shu-lcof/)|
+|第83场周赛|[连续整数求和](https://leetcode.cn/problems/consecutive-numbers-sum/)|
+|第83场周赛|[统计子串中的唯一字符](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string/)|
 ||[数据流中的中位数](https://leetcode.cn/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)|
 ||[1~n整数中1出现的次数](https://leetcode.cn/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)|
 ||[数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|
