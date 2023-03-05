@@ -13,6 +13,10 @@
 |题目|视频链接|难度|标签|知识点|C++代码|Java代码|Python代码|
 |---|---|---|---|---|---|---|---|
 |[零钱兑换](https://leetcode-cn.com/leetbook/read/top-interview-questions/x2echt/)|
+|[零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/)|
+|[零钱兑换](https://leetcode-cn.com/leetbook/read/top-interview-questions/x2echt/)|
+|[零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/)|
+
 
 ## 第三阶段 高级阶段
 算法的最后一个阶段也是最难的一个阶段，这个阶段不仅考察你对语言熟练程度和算法的掌握程度，更注重考察你的解决问题的综合能力，这些综合能力包括较强的问题分析转化能力和较强能力逻辑推理能力等，这个阶段最有效的提高方法就是实战；在leetcode上实战的方法可以参加各种企业发起的周赛，和春秋季力扣杯个人赛和团队赛，下面是各企业发起周赛的困难题和力扣杯中的中等难题：
