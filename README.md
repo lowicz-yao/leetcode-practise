@@ -19,4 +19,7 @@
 |日期|题目|视频链接|难度|标签|知识点|C++代码|Java代码|Python代码|
 |---|---|---|---|---|---|---|---|---|
 |2023-03-05|[最大得分](https://leetcode-cn.com/problems/get-the-maximum-score/)|
+||[最大得分](https://leetcode-cn.com/problems/get-the-maximum-score/)|
+||[最大得分](https://leetcode-cn.com/problems/get-the-maximum-score/)|
+||[最大得分](https://leetcode-cn.com/problems/get-the-maximum-score/)|
 
